@@ -1,9 +1,6 @@
-let userInfo = {
+const userInfos = {
     userName: "daryl",
     location: "lyon",
 }
 
-module.exports = {
-        userInfo,  
-   
-};
+module.exports = userInfos;
